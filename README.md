@@ -82,8 +82,25 @@ Dairy-Management-System-Flask/
 ├── assets/                        # Screenshots / images
 │
 ├── app/
-│   ├── __init__.py                # App factory (create_app)
-│   └── ...                        # Blueprints & API routes
+│   ├── __init__.py                # App factory and extensions
+│   ├── models.py                  # Database models
+│   │
+│   ├── routes/                    # Blueprints & API routes
+│   │   ├── auth.py
+│   │   ├── collection.py
+│   │   ├── customer.py
+│   │   ├── rate.py
+│   │   └── __init__.py
+│   │
+│   └── templates/                 # HTML templates
+│       ├── addcollection.html
+│       ├── customerdetails.html
+│       ├── homepage.html
+│       ├── login.html
+│       ├── newcustomer.html
+│       ├── ratechart.html
+│       ├── viewcollection.html
+│       └── viewratechart.html
 │
 ├── .env                           # Environment variables (DB credentials)
 ├── config.py                      # App configuration class
@@ -91,7 +108,7 @@ Dairy-Management-System-Flask/
 ├── main.py                        # Entry Point & page routing
 ├── requirements.txt               # Python dependencies
 ├── LICENSE
-└── README.md
+└── README.md                      # Project Documentation
 ```
 
 ---
