@@ -277,7 +277,7 @@ id, milk_type ENUM('Cow','Buffalo'), fat, snf, rate, date, created_at
 ![Login](https://github.com/ShakalBhau0001/Dairy-Management-System-Flask/blob/main/assets/Login.png)
 
 ### 2. Dashboard
-![Dashboard](https://github.com/ShakalBhau0001/Dairy-Management-System-Flask/blob/main/assets/Dashboard.png)
+![Dashboard](https://github.com/ShakalBhau0001/Dairy-Management-System-Flask/blob/main/assets/Homepage.png)
 
 ### 3. Add Customer
 ![Add Customer](https://github.com/ShakalBhau0001/Dairy-Management-System-Flask/blob/main/assets/AddCustomer.png)
@@ -292,7 +292,7 @@ id, milk_type ENUM('Cow','Buffalo'), fat, snf, rate, date, created_at
 ![View Collection](https://github.com/ShakalBhau0001/Dairy-Management-System-Flask/blob/main/assets/ViewCollection.png)
 
 ### 7. Rate Chart
-![Rate Chart](https://github.com/ShakalBhau0001/Dairy-Management-System-Flask/blob/main/assets/RateChart.png)
+![Rate Chart](https://github.com/ShakalBhau0001/Dairy-Management-System-Flask/blob/main/assets/ViewRate.png)
 
 ---
 
@@ -325,8 +325,8 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Contributors
 
-> Developer: **Shakal Bhau**
+> Developer: **Shakal Bhau** & **Rajlaxmi Patil**
 
-> GitHub: **[ShakalBhau0001](https://github.com/ShakalBhau0001)**
+> GitHub: **[ShakalBhau0001](https://github.com/ShakalBhau0001) & [Rajlaxmi-1307](https://github.com/Rajlaxmi-1307)**
 
 ---
